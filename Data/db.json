@@ -93,6 +93,20 @@
       "id": "e187",
       "username": "admin",
       "password": "1234"
+    },
+    {
+      "id": "5ff4",
+      "fullName": "",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "age": "",
+      "role": "",
+      "format": "",
+      "skillLevel": "",
+      "location": "hderabad",
+      "availability": "mornings"
     }
   ]
 }
