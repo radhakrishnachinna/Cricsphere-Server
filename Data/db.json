@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": "55be",
+      "fullName": "",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "age": "",
+      "role": "",
+      "format": "",
+      "skillLevel": "",
+      "location": "hderabad",
+      "availability": "evenings"
+    },
+    {
+      "id": "a7e8",
+      "fullName": "radha",
+      "username": "radha12",
+      "email": "2211cs030110@mallareddyuniversity.ac.in",
+      "phone": "9381823801",
+      "password": "1234",
+      "age": "19",
+      "role": "Bowler",
+      "format": "",
+      "skillLevel": "",
+      "location": "hderabad",
+      "availability": "evenings"
+    },
+    {
+      "id": "c4df",
+      "username": "radha12",
+      "password": "1234"
+    },
+    {
+      "id": "4eda",
+      "username": "radha12",
+      "password": "1234"
+    },
+    {
+      "id": "b427",
+      "username": "radha12",
+      "password": "1234"
+    },
+    {
+      "id": "c5a5",
+      "fullName": "radhakrishna",
+      "username": "admin",
+      "email": "manas@gmail.com",
+      "phone": "9381823801",
+      "password": "1234",
+      "age": "19",
+      "role": "Bowler",
+      "location": "hyderabad",
+      "availability": "evenings"
+    },
+    {
+      "id": "21fb",
+      "username": "admin",
+      "password": "1234"
+    },
+    {
+      "id": "1f6b",
+      "username": "admin",
+      "password": "1234"
+    },
+    {
+      "id": "45a6",
+      "fullName": "",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "age": "",
+      "role": "",
+      "location": "hderabad",
+      "availability": ""
+    },
+    {
+      "id": "f84e",
+      "fullName": "",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "password": "",
+      "age": "",
+      "role": "",
+      "location": "",
+      "availability": ""
+    },
+    {
+      "id": "e187",
+      "username": "admin",
+      "password": "1234"
+    }
+  ]
+}
