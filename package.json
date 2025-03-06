@@ -1,23 +1,24 @@
 {
-    "name": "Cricsphere-server",
-    "version": "1.0.0",
-    "main": "index.js",
-    "scripts": {
-      "start": "node server.js",
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "dev": "nodemon server.js"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "description": "",
-    "dependencies": {
-      "cors": "^2.8.5",
-      "json-server": "^0.17.4"
-    },
-    "devDependencies": {
-      "nodemon": "^3.1.7"
-    }
- 
-
+  "name": "cricket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radhakrishnachinna/Cricsphere-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/radhakrishnachinna/Cricsphere-Server/issues"
+  },
+  "homepage": "https://github.com/radhakrishnachinna/Cricsphere-Server#readme",
+  "dependencies": {
+    "json-server": "^0.17.4"
   }
+}
