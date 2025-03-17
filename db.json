@@ -1,0 +1,190 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "fullName": "srikar",
+      "username": "sri12",
+      "email": "2211cs030110@mallareddyuniversity.ac.in",
+      "phone": "9381823801",
+      "password": "sri",
+      "age": "20",
+      "role": "Batsman",
+      "format": "ODI",
+      "skillLevel": "Advanced",
+      "location": "hderabad",
+      "availability": "afternoons",
+      "id": "1"
+    },
+    {
+      "fullName": "karthil",
+      "username": "kar",
+      "email": "manas@gmail.com",
+      "phone": "9381823801",
+      "password": "kart",
+      "age": "21",
+      "role": "Batsman",
+      "format": "T20",
+      "skillLevel": "Intermediate",
+      "location": "hderabad",
+      "availability": "afternoons",
+      "id": "2"
+    },
+    {
+      "username": "kar",
+      "password": "kart",
+      "id": "3"
+    },
+    {
+      "fullName": "bobby",
+      "username": "bobby23",
+      "email": "2211cs030110@mallareddyuniversity.ac.in",
+      "phone": "9381823801",
+      "password": "1234",
+      "age": "22",
+      "role": "Batsman",
+      "format": "T20",
+      "skillLevel": "Intermediate",
+      "location": "hderabad",
+      "availability": "evenings",
+      "id": "4"
+    },
+    {
+      "username": "bobby23",
+      "password": "1234",
+      "id": "5"
+    },
+    {
+      "fullName": "sanjeeva ",
+      "username": "sanju12",
+      "email": "sakethramagiri86@gmail.com",
+      "phone": "9381823801",
+      "age": "21",
+      "role": "All-Rounder",
+      "format": "ODI",
+      "skillLevel": "Advanced",
+      "location": "hyderabad",
+      "availability": "afternoons",
+      "id": "6"
+    },
+    {
+      "username": "sanju12",
+      "password": "1234",
+      "id": "7"
+    },
+    {
+      "id": "73d1",
+      "fullName": "vamshi mudhiraj",
+      "username": "vamshi23",
+      "email": "vmudiraj230@gmail.com",
+      "phone": "9876543",
+      "age": "37",
+      "role": "Bowler",
+      "format": "T20",
+      "skillLevel": "Beginner",
+      "location": "hyderabad",
+      "availability": "mornings"
+    },
+    {
+      "fullName": "vamshi mudhiraj",
+      "username": "vamshi234",
+      "email": "vmudiraj230@gmail.com",
+      "phone": "9876123",
+      "password": "1234",
+      "age": "19",
+      "role": "Batsman",
+      "format": "ODI",
+      "skillLevel": "Intermediate",
+      "location": "hyderabad",
+      "availability": "mornings",
+      "id": "RrFJ271"
+    },
+    {
+      "username": "vamshi234",
+      "password": "1234",
+      "id": "rnZQhDX"
+    },
+    {
+      "fullName": "harshini",
+      "username": "har21",
+      "email": "ytrea@23456",
+      "phone": "987654321",
+      "age": "97",
+      "role": "Wicketkeeper",
+      "format": "ODI",
+      "skillLevel": "Professional",
+      "location": "beeramguda",
+      "availability": "weekends",
+      "id": "0jeGoS5"
+    },
+    {
+      "username": "har21",
+      "password": "1234",
+      "id": "m6PFnAX"
+    },
+    {
+      "fullName": "vamshi mudiraj",
+      "username": "vamshi",
+      "email": "vmudiraj@gmail.com",
+      "phone": "9381823801",
+      "age": "20",
+      "role": "Batsman",
+      "format": "T20",
+      "skillLevel": "Intermediate",
+      "location": "hderabad",
+      "availability": "mornings",
+      "id": "lOCMsh6"
+    },
+    {
+      "fullName": "praveen prakash",
+      "username": "praveen12",
+      "email": "manas@gmail.com",
+      "phone": "9381823801",
+      "age": "19",
+      "role": "Batsman",
+      "format": "T20",
+      "skillLevel": "Advanced",
+      "location": "hyderabad",
+      "availability": "mornings",
+      "id": "X7le3bA"
+    },
+    {
+      "username": "praveen12",
+      "password": "1234",
+      "id": "1UoSlag"
+    },
+    {
+      "fullName": "manikanta masireddy",
+      "username": "sri23",
+      "email": "2211cs030110@mallareddyuniversity.ac.in",
+      "phone": "9381823801",
+      "age": "19",
+      "role": "Batsman",
+      "format": "T20",
+      "skillLevel": "Advanced",
+      "location": "hyderabad",
+      "availability": "mornings",
+      "id": "w6WlVUe"
+    },
+    {
+      "username": "sri23",
+      "password": "1234",
+      "id": "5Os7YI5"
+    }
+  ]
+}
